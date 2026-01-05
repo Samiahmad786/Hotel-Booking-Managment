@@ -1,5 +1,4 @@
 This project analyzes hotel booking data to identify **cancellation patterns, revenue trends, and customer behavior**.  
-Using **Power BI**, the project transforms raw booking data into an **interactive dashboard** that helps hotel management reduce cancellations and improve decision-making.
 
 The analysis focuses on:
 - Booking vs cancellation behavior
